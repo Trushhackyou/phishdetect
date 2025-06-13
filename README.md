@@ -1,31 +1,22 @@
-# 🔍 PhishShield - AI-Powered Phishing Detection
-
-
-A modern web application that detects phishing/malicious URLs using Google Safe Browsing API with dark/light mode toggle.
+# 🔍 PhishDetect
+A modern web application that detects phishing/malicious URLs using Google Safe Browsing API.
 
 
 ## ✨ Features
 
 - 🕵️‍♂️ Real-time URL scanning against Google's threat database
-- 🌗 Automatic dark/light mode with system preference detection
 - 📊 Detailed threat analysis with timestamps
-- 📱 Fully responsive design (works on mobile/desktop)
 - 🔐 Secure API key management (via `.env`)
 
 ## 🛠️ Tech Stack
 
-| Component       | Technology |
+| Component      | Technology |
 |----------------|------------|
 | Frontend       | HTML5, CSS3, JavaScript |
 | Backend        | Python Flask |
 | API            | Google Safe Browsing v4 |
 | Security       | Environment variables |
 
-## 🚀 Quick Start
-
-### Prerequisites
-- Python 3.8+
-- Google API key ([Get one free](https://console.cloud.google.com/))
 
 ### Installation
 
