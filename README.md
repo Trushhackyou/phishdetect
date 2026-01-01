@@ -20,10 +20,6 @@ A modern web application that detects phishing/malicious URLs using Google Safe 
 
 ### Installation
 
-# Clone repository
-git clone https://github.com/your-username/phishdetect.git
-cd phishshield
-
 # Create virtual environment (recommended)
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
